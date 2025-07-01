@@ -1,0 +1,4 @@
+What is the difference between an Array and an ArrayList in Java?|An Array has a fixed size and stores elements of a specific type. An ArrayList is a resizable collection that can grow or shrink dynamically and is part of the Java Collections Framework.
+What is a try-catch block used for in Java?|A try-catch block handles exceptions by running code in the try block and catching errors in the catch block, preventing program crashes due to unexpected inputs or operations.
+What is data persistence in Java, and how is it implemented?|Data persistence refers to saving program data so it can be retrieved later. In Java, this is often done using file I/O with classes like FileReader, BufferedReader, FileWriter, and BufferedWriter.
+How does recursive input validation work in Java?|Recursive input validation involves calling the same method repeatedly until valid input is received, typically using a base case to stop recursion when conditions are met.
