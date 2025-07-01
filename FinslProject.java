@@ -1,3 +1,6 @@
+/*This is the main code, to test run using java FinslProject
+(Please mind the typo)
+*/
 import java.util.Scanner;
 public class FinslProject {
     private static Scanner scanner = new Scanner(System.in);
