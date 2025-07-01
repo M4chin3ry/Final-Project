@@ -1,4 +1,4 @@
-/*This is the main code, to test run using java FinslProject
+/*This is the main code, to test run using "java FinslProject"
 (Please mind the typo)
 */
 import java.util.Scanner;
