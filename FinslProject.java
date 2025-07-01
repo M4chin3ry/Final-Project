@@ -1,5 +1,7 @@
 /*This is the main code, to test run using "java FinslProject"
 (Please mind the typo)
+This is a Flashcard study tool that allows you to enter a question and answer then you can study the flashcard. 
+Once answered correctly the flashcard will enter the mastered flashcards.
 */
 import java.util.Scanner;
 public class FinslProject {
